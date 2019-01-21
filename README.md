@@ -113,7 +113,7 @@ const renderGame = (shuffledArray, domNode = document.getElementById('app')) => 
 	domNode.innerHTML = rows;
 };
 ```
-When we have our UI is rendered we need to ass styles so our html content looks like a game.
+When we have our UI is rendered we need to add styles so our html content looks like a game.
 
 ### Styles
 
